@@ -10,6 +10,12 @@ public class Solutions {
         }
     }
 
+    // TODO: the instructions told you to write an 'overloaded' function that took three doubles instead of three ints.
+    // that means another method with the same name, but different arguments. Fill this in:
+    public static double max3(double a, double b, double c){
+        return 0;
+    }
+
     public static boolean odd(boolean a, boolean b, boolean c) {
         int count = 0;
         if (a) {
